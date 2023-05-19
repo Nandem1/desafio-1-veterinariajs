@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "huesito",
+    "edad": "4",
+    "tipo": "shitzu",
+    "color": "blanco",
+    "enfermedad": "demasiado hermoso"
+  },
+  {
+    "nombre": "morita",
+    "edad": "6",
+    "tipo": "shitzu",
+    "color": "blanca",
+    "enfermedad": "demasiado hermosa"
+  },
+  {
+    "nombre": "monita",
+    "edad": "4",
+    "tipo": "shitzu",
+    "color": "blanca",
+    "enfermedad": "demasiado hermosa"
+  },
+  {
+    "nombre": "Taufer",
+    "edad": "9",
+    "tipo": "Pastor Aleman",
+    "color": "Negro y Cafe",
+    "enfermedad": "muy hermoso"
+  }
+]
