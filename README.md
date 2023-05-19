@@ -1,5 +1,4 @@
-# desafio-1-veterinariajs
-Desafio 1 del Modulo 6 de la Academia Desafío LATAM. Introducción a Node
+## desafio-1-veterinariajs
 ---
 con el comando `registrar` podemos agregar una nueva cita a citas.json, por ejemplo `node .\index.js registrar "huesito" 4 "shitzu" "blanco" "demasiado hermoso"`
 ![image](https://github.com/Nandem1/desafio-1-veterinariajs/assets/103139553/f0a25025-6e0c-4927-86d7-7df703be6c1a)
